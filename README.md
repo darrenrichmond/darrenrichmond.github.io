@@ -1,5 +1,3 @@
-# darrenrichmond.github.io
-
 darrenrichmond.github.io
 ====================
 
